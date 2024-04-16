@@ -1,0 +1,1 @@
+The repo contains the study materials for the DevCoach Project. The file "DevCoach Study Design.pdf" introduce the study procedure of our pilot study. The "Quiz Questions.pdf" contains the pre-quiz and post-quiz that being used to assess participants' understanding on concepts related to software development life cycle.
